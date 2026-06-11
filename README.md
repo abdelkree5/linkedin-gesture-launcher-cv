@@ -95,6 +95,6 @@ webbrowser
 <hr/>
 
 <div align="center">
-<h3>👨‍💻 Developed by Mostafa Sharqawy</h3>
+<h3>👨‍💻 Developed by abdelkreem abdelhaleem frahat</h3>
 <p>AI Engineer | Computer Vision | HCI</p>
 </div>

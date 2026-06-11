@@ -8,7 +8,7 @@ import webbrowser
 import time
 
 # ===== إعدادات أساسية =====
-LINKEDIN_URL = "https://www.linkedin.com/in/eng-mostafa-ali-66b3a7352/"  # ضع لينك لينكدإن بتاعك هنا
+LINKEDIN_URL = "https://www.linkedin.com/in/abdelkreem-frahat-160g/"  # ضع لينك لينكدإن بتاعك هنا
 DETECTION_FRAMES_REQUIRED = 8   # عدد الفريمات المطلوبة لتأكيد الإشارة
 COOLDOWN_SECONDS = 5             # فترة الانتظار قبل فتح لينك تاني
 
